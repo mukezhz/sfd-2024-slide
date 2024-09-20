@@ -88,7 +88,10 @@ level: 2
 
 # Why Open Source?
 
-## Because we don't want this
+## Because we want freedom and privacy
+
+## we don't want this
+
 <br/>
 
 <div v-click>
