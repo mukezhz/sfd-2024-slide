@@ -183,4 +183,6 @@ class: text-center
 
 [The Free Software Movement and the Development of the GNU Operating System(2005)](https://www.youtube.com/watch?v=Mz9KmomGTsQ)
 
+[Reclaim your freedom with free libre software now - Richard Stallman of Free Software Movement](https://www.youtube.com/watch?v=n9YDz-Iwgyw)
+
 <PoweredBySlidev mt-10 />
