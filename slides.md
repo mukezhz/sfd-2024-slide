@@ -177,6 +177,8 @@ class: text-center
 
 [Free Software Free Society](https://www.youtube.com/watch?v=Ag1AKIl_2GM&t=63s)
 
+[Why You Should Use Free Software](https://youtu.be/lNsjlvwHR-0)
+
 [The Free and Open Source Software I Use in 2024 - Part 1](https://www.youtube.com/watch?v=6t5BQRQJIVY)
 
 [The Free Software Movement and the Development of the GNU Operating System(2005)](https://www.youtube.com/watch?v=Mz9KmomGTsQ)
