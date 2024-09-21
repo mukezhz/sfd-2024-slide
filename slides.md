@@ -140,7 +140,7 @@ level: 2
 
 <br/>
 <div v-click>
-Just remember what if there wasn't an Open Source Software?
+Just think "What if there wasn't an Open Source Software?"
 </div>
 <br/>
 <div v-click>
