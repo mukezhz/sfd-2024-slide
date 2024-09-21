@@ -158,6 +158,8 @@ class: text-center
 
 [CHAOSS](https://chaoss.community/)
 
+[FOSS Nepal](https://www.fossnepal.org/)
+
 [Out Reachy](https://www.outreachy.org/)
 
 [Summer of Code](https://summerofcode.withgoogle.com/programs/2023/organizations)
