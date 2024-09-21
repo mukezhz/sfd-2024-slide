@@ -146,6 +146,27 @@ Just think "What if there wasn't an Open Source Software?"
 <div v-click>
 Because "You don’t realize how valuable something is until it’s gone"
 </div>
+---
+class: text-center
+---
+
+# Other Communities
+
+<br/><br/>
+
+[NOSK](https://nosk.org.np)
+
+[CHAOSS](https://chaoss.community/)
+
+[Out Reachy](https://www.outreachy.org/)
+
+[Summer of Code](https://summerofcode.withgoogle.com/programs/2023/organizations)
+
+[OSAC(Open Source ASCOL Circle)](https://osacascol.blogspot.com/)
+
+[Kathmandu University Open Source Community](https://www.kuosc.org.np/)
+
+Many More...
 
 ---
 layout: center
